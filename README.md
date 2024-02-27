@@ -23,7 +23,7 @@ We created a bar at a top right corner containg a percentage that denotes how mu
 link - https://hi-masd.github.io/Percentage_Scrolled/ 
 
 
-## Screenshots
 
-![App Screenshot](https://ninjasfiles.s3.amazonaws.com/0000000000001881.gif)
+
+![App Screenshot] (https://ninjasfiles.s3.amazonaws.com/0000000000001881.gif)
 
