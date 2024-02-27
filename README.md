@@ -25,5 +25,4 @@ link - https://hi-masd.github.io/Percentage_Scrolled/
 
 
 
-![App Screenshot] (https://ninjasfiles.s3.amazonaws.com/0000000000001881.gif)
 
